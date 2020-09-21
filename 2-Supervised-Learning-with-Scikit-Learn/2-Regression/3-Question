@@ -1,0 +1,12 @@
+Once you have a feel for the data, consider the statements below and select the one that is not true. After this, Hugo will explain the mechanics of linear regression in the next video and you will be on your way building regression models!
+
+Possible Answers:
+The DataFrame has 139 samples (or rows) and 9 columns.
+
+life and fertility are negatively correlated.
+
+The mean of life is 69.602878.
+
+*** fertility is of type int64.
+
+GDP and life are positively correlated.

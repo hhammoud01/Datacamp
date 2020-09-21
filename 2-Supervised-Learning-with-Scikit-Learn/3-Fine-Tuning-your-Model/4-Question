@@ -1,0 +1,12 @@
+Question:
+Study the precision-recall curve and then consider the statements given below. Choose the one statement that is not true. Note that here, the class is positive (1) if the individual has diabetes.
+
+Possible Answers:
+
+1- A recall of 1 corresponds to a classifier with a low threshold in which all females who contract diabetes were correctly classified as such, at the expense of many misclassifications of those who did not have diabetes.
+
+2- Precision is undefined for a classifier which makes no positive predictions, that is, classifies everyone as not having diabetes.
+
+3- When the threshold is very close to 1, precision is also 1, because the classifier is absolutely certain about its predictions.
+
+*** 4- Precision and recall take true negatives into consideration.

@@ -1,0 +1,12 @@
+select the statement below that is not true.
+
+POSSIBLE ANSWERS:
+The DataFrame has a total of 435 rows and 17 columns.
+
+Except for 'party', all of the columns are of type int64.
+
+The first two rows of the DataFrame consist of votes made by Republicans and the next three rows consist of votes made by Democrats.
+
+** There are 17 predictor variables, or features, in this DataFrame.
+
+The target variable in this DataFrame is 'party'.

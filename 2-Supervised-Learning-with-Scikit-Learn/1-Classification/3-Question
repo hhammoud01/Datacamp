@@ -1,0 +1,7 @@
+In the IPython Shell, explore the voting behavior further by generating countplots for the 'satellite' and 'missile' bills, and answer the following question: Of these two bills, for which ones do Democrats vote resoundingly in favor of, compared to Republicans?
+
+Possible Answers
+'satellite'.
+'missile'.
+* Both 'satellite' and 'missile'.
+Neither 'satellite' nor 'missile'.

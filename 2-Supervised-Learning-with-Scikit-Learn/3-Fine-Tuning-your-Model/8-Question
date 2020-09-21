@@ -1,0 +1,10 @@
+Question
+Hold-out set reasoning
+For which of the following reasons would you want to use a hold-out set for the very end?
+
+Answer the question
+1- You want to maximize the amount of training data used.
+
+*** 2- You want to be absolutely certain about your model's ability to generalize to unseen data.
+
+3- You want to tune the hyperparameters of your model.
